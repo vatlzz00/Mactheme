@@ -23,6 +23,13 @@ Please make sure to update tests as appropriate.
 ## License
 [GPL3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
+## Thanks...
+
+...to 
+
+vinceliuice        BelovedSomeone        USBA
+
+..for makin' the themes.
 
 Enjoy!
 
