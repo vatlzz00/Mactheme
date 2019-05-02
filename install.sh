@@ -40,8 +40,8 @@ if [ ! -d "/usr/share/zenity/" ]; then
 sudo apt install zenity
 sudo sh install.sh
         fi
-mkdir /tmp/PublicInstaller353dfvxcvrthfb/
-tar xvf MacOsMojaveDark_themepack_0-10.12.tar.xz -C /tmp/PublicInstaller353dfvxcvrthfb/
+mkdir /tmp/PublicInstaller353dfvxcvrthfb/'
+cp icontheme.tar.xz cursortheme.tar.xz gtktheme.tar.xz planktheme.tar.xz /tmp/PublicInstaller353dfvxcvrthfb/
 cd /tmp/PublicInstaller353dfvxcvrthfb/
 tar xvf icontheme.tar.xz -C /usr/share/icons/
 if [ ! -d "~/.icons/" ]; then
